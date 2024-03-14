@@ -14,4 +14,4 @@ Creating a basic human character.
 >
 > Front Preview - Human Character
 
-<img src="Screenshots/Screenshot 2024-03-14 092851.png" alt="side-view">
+<img src="Screenshots/Screenshot 2024-03-14 092803.png" alt="side-view">
